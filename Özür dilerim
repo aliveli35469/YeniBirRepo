@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <title>Özür Dilerim</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background: url('34A295B2-6CC0-429B-B6D6-6CDA9FF9AE6D.jpeg') no-repeat center center fixed;
+      background-size: cover;
+      font-family: 'Courier New', Courier, monospace;
+      color: white;
+      text-align: center;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      backdrop-filter: brightness(0.6);
+    }
+
+    .text {
+      background-color: rgba(0, 0, 0, 0.5);
+      padding: 20px;
+      border-radius: 15px;
+      max-width: 90%;
+      margin: auto;
+    }
+
+    h1 {
+      font-size: 2em;
+      margin-bottom: 10px;
+    }
+
+    p {
+      font-size: 1.2em;
+      opacity: 0.9;
+    }
+  </style>
+</head>
+<body>
+  <div class="text">
+    <h1>Özür dilerim güzelim…</h1>
+    <p>Param bitti… Ben de bu siteyi yaptım.</p>
+    <p>Ne olur affet… Yanına gelecek bile param yok.</p>
+  </div>
+</body>
+</html
